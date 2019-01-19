@@ -1,4 +1,22 @@
-﻿  example.cpp
-  hy352_gui.cpp
-  Generating Code...
-  hy352_project.vcxproj -> C:\Users\user\Desktop\hy352_project\hy352_project\Debug\hy352_project.exe
+﻿  Source.cpp
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(218): warning C4018: '>': signed/unsigned mismatch
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(225): warning C4018: '>': signed/unsigned mismatch
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(233): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(294): warning C4018: '>': signed/unsigned mismatch
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(301): warning C4018: '>': signed/unsigned mismatch
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(370): warning C4018: '>': signed/unsigned mismatch
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(380): warning C4018: '>': signed/unsigned mismatch
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(433): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(444): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(446): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(554): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(582): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(583): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(584): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(592): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(593): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(594): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\source.cpp(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\source.cpp(9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\έγγραφα\desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\hy352_project\logo.h(390): warning C4715: 'logo_array::get': not all control paths return a value
+  hy352_project.vcxproj -> D:\Έγγραφα\Desktop\hy352_project\project_hy352\hy352_csd3683_csd3741_project\hy352_project\Debug\hy352_project.exe

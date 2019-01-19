@@ -84,6 +84,9 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -129,9 +132,11 @@
   <ItemGroup>
     <ClCompile Include="example.cpp" />
     <ClCompile Include="hy352_gui.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hy352_gui.h" />
+    <ClInclude Include="LOGO.h" />
   </ItemGroup>
   <ItemGroup>
     <Font Include="pirulen rg.ttf" />

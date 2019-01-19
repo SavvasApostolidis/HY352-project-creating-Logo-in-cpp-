@@ -3,7 +3,7 @@
 #include <allegro5/allegro.h>
 #endif
 
-
+/*
 int main(int argc, char **argv)
 {
 	const char *msg = "START";
@@ -41,3 +41,4 @@ int main(int argc, char **argv)
 	destroy_GUI();
 	return 0;
 }
+*/
